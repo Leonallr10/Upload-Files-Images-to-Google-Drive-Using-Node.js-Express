@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-obstacle-avoidance-34dad",
+  "private_key_id": "a2177491f1a13d2b37767c4ad162a5049be2fc7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDyh+o80WT5S02b\nA2cTOyJYKwydl1cuoHCS1S/R9GG/LSsrARZrgmXegM+84WPS+odw2wvXdq77qzWZ\nAJSTx4GLmAGPlcn3PM/4/NwhYtVJkgitfOpUJ66oT+zhxgjMFiZThqk9DfaLhhHX\n8PkiuA6AH+gqP7ewEoSlysVOG0JZnS6KJP4NPCZp9xEiY1vWFe00/bFI8OrmieyU\nfKjaSNCKXNqWLQi4c20FYu15wKTgq91vDMmpt62nAb98MPueLk3ORhJ8yA50V+h0\nv4ftFO9Ywwj0ZfL/U1v2m0sxlI76wzjhD9cUTAoIfCdFnHm1jdqEkMOtVmoh+O49\nVw77gf9jAgMBAAECggEAYK2eSY0c56VFc8f49DkL2UKb3kwgVDVfeqCh1dtJhahP\nP27JDaUmz3nglYXxQX5dtDaVM1gbq7XVgT6ye3A5azh2UtLedgBXVQUTCPn5VMDy\nVZnoXRCOdoiZwGwtQJGJyJzy5KQmxfp1LXPhFB5zpU5SwVix8+2F1AMPALIsEkUn\nxQbdJcfnfQ22hSe4FkMGUpmOfb188cXwfivJM9bfgST1xcdtvn1BotbGXob+fUyh\nrsi4mgq2/uIUpP0W9uGM2df1ZxIUV81kCkASy7qdKGG3+nDenCBliI1Myt8uRRps\nKhX3A1nLSSy/YsyTnbSUrJrN5KoAJcf4D8XAZ5ravQKBgQD874cAk3wv8Q8QbdZS\ntPKTrGvHTbnNg2ZFPJsP+C4Opl/U3tnEXiZnJS2+r+qrWqAx9W/SW8kBzhkjeSX4\np4tIdC2JRJ0YL86lX4+3uRYBCD0+Cq4Ifs8ygd2XV7PYZNlSoFQyVPS/8/5dQcZM\n03tJubcxdvf0c95YRfJa6tyV1wKBgQD1eB4eRu94wiTL5MQESzC9U97zIsKiagY9\nGpWV93sV2afKGGJ5pYtUg4IFeg/HuxjxbDu1tK8WrrUefOssoUpOYvsP+mdIMMEP\ndsQym+IczBeWQpgSq0oyqvT3ghi25XoE3FVtQta3nHrYBwWQsz/3c8OrfWPTnN2p\nHxtJKqfZVQKBgBKsBAVQ3ewUGY6W7Slx3i50ngg6fqrjNluKG9BT++Js+coXIXBT\nmvYmUngvOF2p9QV7HuQijnYppsVtnhX7GFci7HGjtQ0iClk+8rcXXL56wzqfQzWx\nVs5ds+QGP2qMF1b4Kv8EMoUxF+f+gQsO2Z0ZrqJiK+/J1fIiR7/acqpFAoGBAM61\n8X8Ds2QY8c21/w+ylf/JokVTb15ANLK+MVvRxZg362F3uW3BZ5yrBhJAoQtMVovv\n3jR9TLioNSPQhGbYCHAMUGo7L0COtfWkyUHpHbescux5dgC6uEgEyTepGdDjXCa9\nuT7Ce3ix0I0dFKWvHV3v4cYHWMp6HfvukxbBUgnlAoGAUmmk5KyxOvnMI6/qatky\nFXHJ42313iOkq0MvGCXBv9sSjCjyjVW80PChrtV5qeWEqGcBmOxp4Vm6cWEDaHej\nJGX1a6zZXXK19hRubQ1ZydXJTk77B3+FP28dVYpVHUgJS/SZz5WBjIo3nvwCRhA6\ngHQIJNuhZGAyVRnXT0OIMTI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uploadfiles@iot-obstacle-avoidance-34dad.iam.gserviceaccount.com",
+  "client_id": "118407778342960983424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uploadfiles%40iot-obstacle-avoidance-34dad.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
